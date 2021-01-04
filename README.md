@@ -1,6 +1,4 @@
 # Windows 7, 8, 10 and Windows Server PowerShell Scripts
-[![](https://i.imgur.com/bzG7kdD.png)](#)
-
 
 ### **Paste links into PowerShell**
 ## OpenVPN_Multi
